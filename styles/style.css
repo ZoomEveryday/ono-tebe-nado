@@ -94,8 +94,6 @@
 }
 
 .accent__span {
-  display: flex;
-  flex-direction: row;
   display: block;
   margin-bottom: 6px;
   white-space: nowrap;
